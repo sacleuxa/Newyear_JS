@@ -20,3 +20,29 @@ section {
     background-color: red;
     border-radius: 100%;
 }
+
+.next img {
+    width: 100%;
+    height: 100%;
+
+}
+
+.step1 {
+    background-color: #627cab;
+}
+
+.step2 {
+    background-color: #dfe7f4;
+}
+
+.step3 {
+    background-color: #627cab;
+}
+
+.step4 {
+    background-color: #dfe7f4;
+}
+
+.step5 {
+    background-color: #627cab;
+}
