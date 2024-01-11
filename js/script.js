@@ -144,6 +144,13 @@ function step5() {
         },7000);
         }
 
+function music() {
+    var music = document.getElementById('music');
+    music.play();
+}
+
+
+
 function start() {
 
     step1();
